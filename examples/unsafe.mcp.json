@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "python",
+      "args": ["server.py", "C:/"],
+      "env": {
+        "API_TOKEN": "replace-this-with-an-environment-variable",
+        "REMOTE_URL": "http://example.com/api"
+      }
+    }
+  }
+}
