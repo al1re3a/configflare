@@ -1,5 +1,7 @@
 # ConfigFlare
 
+[![CI](https://github.com/al1re3a/configflare/actions/workflows/ci.yml/badge.svg)](https://github.com/al1re3a/configflare/actions/workflows/ci.yml) [![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 **Find the dangerous MCP setting before an agent finds it.**
 
 ConfigFlare is a zero-runtime-dependency Python CLI that audits MCP and coding-agent configuration for hardcoded credentials, missing commands, whole-disk access, insecure endpoints, malformed schemas, and permission-bypass flags.
